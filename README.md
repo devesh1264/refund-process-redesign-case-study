@@ -8,7 +8,7 @@ process taking 12–15 business days.
 
 Redesigned the process to under 5 business days (65%+ reduction) by 
 eliminating 5 manual, email-based handoffs across Support, Warehouse, 
-and Finance — using a shared case management system, an enforced SLA 
+and Finance — using a shared case management system, an enforced SLA (Service Level Agreement)
 with auto-escalation, and a payment system API integration.
 
 ## What's Inside
@@ -36,4 +36,4 @@ BRD Authoring · Cost-Benefit Analysis · UAT Planning
 |---|---|---|
 | Refund turnaround time | 12–15 business days | Under 5 business days |
 | Manual cross-department handoffs | 5 | 0 |
-| Warehouse confirmation SLA | None | 1 business day (enforced + alerted) |
+| Warehouse confirmation SLA (Service Level Agreement)| None | 1 business day (enforced + alerted) |
